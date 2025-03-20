@@ -38,7 +38,7 @@ Os seguintes itens não são obrigatórios, mas podem agregar valor à solução
    - Passo a passo para configurar e executar o projeto (backend e frontend).
    - Tecnologias utilizadas.
    - Quais diferenciais foram implementados (caso aplicável).
-3. Enviar o link do repositório junto com o currículo.
+3. Enviar o link do repositório junto com o currículo para o email: rh@vollsolutions.com.br.
 
 **Observação:** A publicação online da aplicação não é necessária, apenas a disponibilização do código-fonte em repositório público.
 
